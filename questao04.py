@@ -14,7 +14,7 @@
 
 
 produtos = []
-for i in range(3):
+for i in range(5):
     print(f"Cadastro do produto {i + 1}:")
     nome = input("Digite o nome do produto: ")
     preco = float(input("Digite o preço do produto: "))
